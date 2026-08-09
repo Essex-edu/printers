@@ -36,7 +36,7 @@ Local, Network and Shared printers.
 * HP Envy Photo 7155
 * HP LaserJet 1022/2430/4050t/4200/4250/4200tn/8150n/9050n
 * HP LaserJet 600 M601
-* HP LaserJet Enterprise 600 M602
+* HP LaserJet Enterprise 600 M602/[M806](/Files/M806.zip)
 * HP LaserJet P2015/P2035/P2055dn/P3005
 * HP LaserJet Pro 200 color MFP M276nw/300 color MFP M375nw/M402-M403
 * HP Officejet 4650/J3680
